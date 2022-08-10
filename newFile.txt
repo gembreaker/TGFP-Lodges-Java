@@ -1,0 +1,17 @@
+Customer name: Gemma Dunlop
+Customer address: 8 Zoo Lane
+Customer telephone no: 07766675832
+Customer card no: 1256789574632123
+Date and Time: 2022-05-05  17:20:25.622413900
+Items:		 Prices:
+Intermediate		 +£40000.00
+Medium		 +£10000.00
+Red		 +£0.00
+Fitting		 +£50.00
+
+Total price of lodge before VAT: 50050.00
+VAT of lodge: £10010.0
+VAT of fitting: £10.0
+Total VAT: +£10020.00
+Total price of lodge after VAT: £60070.00
+Cost of insurance: £60.070
